@@ -1,1 +1,44 @@
-# Redminexiangmubiaojiegouxiangxishuomingjiguanlianguanxifenxiang
+# Redmine 项目表结构详细说明及关联关系
+
+## 资源描述
+
+免费资源、免费资源、免费资源！！！在整个网站都找了，几乎没有我想要的样子，没有个完整版本的，要不就是要钱下载，一气之下 为大家花费了一周的时间 初略整理了一下 目前最新版本的Redmine表结构和关联关系。
+
+## 资源内容
+
+本资源文件详细描述了Redmine项目的表结构及其关联关系。内容包括但不限于：
+
+- 表结构概览
+- 各表字段详细说明
+- 表之间的关联关系图解
+- 常见查询示例
+
+## 适用人群
+
+- Redmine项目开发者
+- 数据库管理员
+- 对Redmine项目感兴趣的研究者
+
+## 使用说明
+
+1. 下载资源文件。
+2. 解压缩文件。
+3. 打开文档，按照说明查看Redmine项目的表结构及关联关系。
+
+## 贡献与反馈
+
+如果您在使用过程中发现任何问题或有改进建议，欢迎通过以下方式联系我们：
+
+- 发送邮件至 [your-email@example.com]
+- 提交GitHub Issue
+
+感谢您的支持与反馈！
+
+## 下载链接
+[Redmine项目表结构详细说明及关联关系分享](https://pan.quark.cn/s/f9bd0ebaf996) 
+
+(备用: [备用下载](https://pan.baidu.com/s/1wK4WLVjWfjBmVENgyYkDXg?pwd=1234))
+
+## 说明
+
+该仓库仅用于学习交流，请勿用于商业用途。
